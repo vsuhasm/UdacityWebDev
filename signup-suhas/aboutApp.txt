@@ -1,0 +1,5 @@
+About the application:
+URL : http://signup-suhas.appspot.com/
+Purpose : Takes in username, password and email address and checks for their validity.
+	  Redirects to a welcome page if the entered info is valid. Else displays
+	  the errors.
